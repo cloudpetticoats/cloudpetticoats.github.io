@@ -18,14 +18,7 @@ Email: zhanghaishuo2002@foxmail.com
 + B.S. Software Engineering, Harbin, Harbin Engineering University (HEU), 2020-2024
 
 ## Work experience
-+ Software Engineer (intern), Beijing, Xiaomi Corporation (Ranked 398th on the 2024 Fortune Global 500 list), Mar. - Jul. 2024.
-
-
-
-
-
-
-
++ Software Engineer (intern), Beijing, Xiaomi Corporation (Ranked 398th on the 2024 Fortune Global 500 list), Mar. - Jul. 2024
 
 ## Publications
 + ...
