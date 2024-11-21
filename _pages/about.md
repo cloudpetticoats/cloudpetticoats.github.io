@@ -13,15 +13,25 @@ My research interests include edge computing, deep reinforcement learning, and n
 
 Email: zhanghaishuo2002@foxmail.com
 
-# Education Experience
+## Education experience
 + M.S. Computer Science and Technology, Beijing, Beijing Jiaotong University (BJTU), 2024-2027 (expected)
 + B.S. Software Engineering, Harbin, Harbin Engineering University (HEU), 2020-2024
 
-# Publications
+## Work experience
++ Software Engineer (intern), Beijing, Xiaomi Corporation (Ranked 398th on the 2024 Fortune Global 500 list), Mar. - Jul. 2024.
+
+
+
+
+
+
+
+
+## Publications
 + ...
 
-# Project & Competition
+## Project & Competition
 + ...
 
-# Honors & Awards
+## Honors & Awards
 + ...
