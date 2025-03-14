@@ -7,19 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at the [School of Computer Science & Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/), specializing in Computer Science and Technology. I plan to pursue a PhD in the future.
+I'm an MPhil student at the [School of Computer Science & Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/), specializing in Computer Science and Technology. I plan to pursue a Ph.D. in the future.
 
-My research interests include edge computing, deep reinforcement learning, and network resource optimization.
+My research interests include mobile edge computing, deep reinforcement learning and network resource optimization.
 
 **Email: zhanghaishuo2002@foxmail.com**
 
 ## Education experience
-+ **M.S. Computer Science and Technology, Beijing, Beijing Jiaotong University (BJTU), 2024-2027 (expected)**
-+ **B.S. Software Engineering, Harbin, Harbin Engineering University (HEU), 2020-2024**
-  - Weighted Average Score: 88.84
++ **MPhil in Computer Science and Technology, Beijing, Beijing Jiaotong University (BJTU), 2024-2027 (expected)**
++ **BEng in Software Engineering, Harbin, Harbin Engineering University (HEU), 2020-2024**
+  - Weighted Average Score: 88.84 (Top 15%)
 
 ## Work experience
-+ **Software Engineer (intern), Beijing, Xiaomi Corporation (Ranked 398th on the 2024 Fortune Global 500 list), Mar. - Jul. 2024**
++ **Software Engineer (intern), Beijing, Xiaomi Corporation (Ranked 360th on the 2025 Fortune Global 500 list), Mar. - Jul. 2024**
   - Designed and developed backend solutions based on requirements.
   - Collaborated with frontend, client-side, and testing teams to ensure successful implementation of features.
 + **Volunteer Service Team Leader, Harbin, Harbin Engineering University, Jun. 2023 - Jun. 2024**
@@ -35,10 +35,10 @@ My research interests include edge computing, deep reinforcement learning, and n
 ### 1. Software Copyright (China Copyright Protection Center)
 + **Lei Feng Hui Volunteer Service App (Android Version) (1st Author)**
   - Registration Number: 2023SR0901674
-  - Authorization Date:
+  - Authorization Date: Aug. 07, 2023
 + **Law Firm Information Management System (1st Author)**
   - Registration Number: 2023R11L0390421
-  - Authorization Date:
+  - Authorization Date: Aug. 14, 2023
 
 ### 2. Competition
 + **16th China College Students Computer Design Competition, Team Leader (1st Author), National Third Prize, Aug. 2023**
