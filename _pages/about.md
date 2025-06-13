@@ -48,16 +48,11 @@ Feel free to reach out: zhanghaishuo2002@foxmail.com
 -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* Merit Student of Heilongjiang Province, awarded by Education Department of Heilongjiang Province.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - now*, M.Eng. in Computer Science and Technology @ [School of Computer Science & Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://en.bjtu.edu.cn/), Beijing.
+- *2020.09 - 2024.06*, B.Eng. in Software Engineering (rank 28 / 223) @ [College of Computer Science and Technology](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), [Harbin Engineering University](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), Harbin.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experiences
+- *2024.03 - 2024.07*, Software Engineer (intern), Beijing, [Xiaomi Corporation](https://www.mi.com/global/about/).
