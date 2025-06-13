@@ -55,4 +55,4 @@ Feel free to reach out: zhanghaishuo2002@foxmail.com
 - *2020.09 - 2024.06*, B.Eng. in Software Engineering (rank 28 / 223) @ [College of Computer Science and Technology](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), [Harbin Engineering University](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), Harbin.
 
 # 💻 Experiences
-- *2024.03 - 2024.07*, Software Engineer (intern), Beijing, [Xiaomi Corporation](https://www.mi.com/global/about/).
+- *2024.03 - 2024.07*, Software Engineer (intern), [Xiaomi Corporation](https://www.mi.com/global/about/), Beijing.
