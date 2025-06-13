@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haishuo Zhang"
+title                    : "Haishuo Zhang (张海硕)"
 description              : "MPhil student in 👨‍💻Computer Science at Beijing Jiaotong University, specializing in deep reinforcement learning-enabled mobile edge computing."
 repository               : "cloudpetticoats/cloudpetticoats.github.io"
 google_scholar_stats_use_cdn : true
