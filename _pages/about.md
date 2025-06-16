@@ -19,18 +19,19 @@ redirect_from:
 
 I'm an MPhil student at the [School of Computer Science & Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/), specializing in Computer Science and Technology. I plan to pursue a Ph.D. in the future.
 
-My research focuses on deep reinforcement learning-enabled mobile edge computing.
+My research focuses on deep reinforcement learning-enabled edge computing.
 
 Feel free to reach out: zhanghaishuo2002@foxmail.com
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 
-# 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!--# 🔥 News
+ - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
-# 📝 Publications 
-<!--
+
+<!--# 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,6 +47,16 @@ Feel free to reach out: zhanghaishuo2002@foxmail.com
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 -->
+
+# 📂 Open Source Contributions
+- I maintain a [repository](https://github.com/cloudpetticoats/deep-reinforcement-learning) that provides clean and robust implementations of common Deep Reinforcement Learning (DRL) algorithms. Welcome to check it out!<div align="left">
+  <a href="https://github.com/cloudpetticoats/deep-reinforcement-learning" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=blue&logo=github">
+  </a> 
+  <a href="https://github.com/cloudpetticoats/deep-reinforcement-learning" style="text-decoration: none;">
+    <img src="https://img.shields.io/github/stars/cloudpetticoats/deep-reinforcement-learning?label=stars&logo=github&color=brightgreen" alt="GitHub Repo Stars">
+  </a> 
+</div>
 
 # 🎖 Honors and Awards
 - *2023.11* Merit Student of Heilongjiang Province, awarded by Education Department of Heilongjiang Province.
