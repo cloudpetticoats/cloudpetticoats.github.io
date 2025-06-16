@@ -49,13 +49,9 @@ Feel free to reach out: zhanghaishuo2002@foxmail.com
 -->
 
 # 📂 Open Source Contributions
-- I maintain a [repository](https://github.com/cloudpetticoats/deep-reinforcement-learning) that provides clean and robust implementations of common Deep Reinforcement Learning (DRL) algorithms. Welcome to check it out!<div align="left">
-  <a href="https://github.com/cloudpetticoats/deep-reinforcement-learning" style="text-decoration: none;">
-    <img src="https://img.shields.io/static/v1?label=GitHub&message=Repo&color=blue&logo=github">
-  </a> 
-  <a href="https://github.com/cloudpetticoats/deep-reinforcement-learning" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/stars/cloudpetticoats/deep-reinforcement-learning?label=stars&logo=github&color=brightgreen" alt="GitHub Repo Stars">
-  </a> </div>
+- I maintain a [repository](https://github.com/cloudpetticoats/deep-reinforcement-learning) that provides clean and robust implementations of common Deep Reinforcement Learning (DRL) algorithms. Welcome to check it out!
+[![GitHub Repo](https://img.shields.io/static/v1?label=GitHub&message=Repo&color=blue&logo=github)](https://github.com/cloudpetticoats/deep-reinforcement-learning)
+[![GitHub stars](https://img.shields.io/github/stars/cloudpetticoats/deep-reinforcement-learning?label=stars&logo=github&color=brightgreen)](https://github.com/cloudpetticoats/deep-reinforcement-learning)
 
 # 🎖 Honors and Awards
 - *2023.11* Merit Student of Heilongjiang Province, awarded by Education Department of Heilongjiang Province.
