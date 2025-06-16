@@ -55,8 +55,7 @@ Feel free to reach out: zhanghaishuo2002@foxmail.com
   </a> 
   <a href="https://github.com/cloudpetticoats/deep-reinforcement-learning" style="text-decoration: none;">
     <img src="https://img.shields.io/github/stars/cloudpetticoats/deep-reinforcement-learning?label=stars&logo=github&color=brightgreen" alt="GitHub Repo Stars">
-  </a> 
-</div>
+  </a> </div>
 
 # 🎖 Honors and Awards
 - *2023.11* Merit Student of Heilongjiang Province, awarded by Education Department of Heilongjiang Province.
