@@ -58,7 +58,7 @@ Feel free to reach out: zhanghaishuo2002@foxmail.com
 
 # 📖 Educations
 - *2024.09 - now*, M.Eng. in Computer Science and Technology @ [School of Computer Science & Technology](https://cs.bjtu.edu.cn/), [Beijing Jiaotong University](https://en.bjtu.edu.cn/), Beijing.
-- *2020.09 - 2024.06*, B.Eng. in Software Engineering (rank 28 / 223) @ [College of Computer Science and Technology](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), [Harbin Engineering University](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), Harbin.
+- *2020.09 - 2024.06*, B.Eng. in Software Engineering (rank 21 / 223) @ [College of Computer Science and Technology](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), [Harbin Engineering University](https://english.hrbeu.edu.cn/School/Schools_A_Z/College_of_Computer_Science_and_Technology.htm), Harbin.
 
 # 💻 Experiences
 - *2024.03 - 2024.07*, Software Engineer (intern), [Xiaomi Corporation](https://www.mi.com/global/about/), Beijing.
