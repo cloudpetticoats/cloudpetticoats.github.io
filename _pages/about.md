@@ -21,7 +21,7 @@ I'm an MPhil student at the [School of Computer Science & Technology](https://cs
 
 My research focuses on deep reinforcement learning-enabled edge computing.
 
-Feel free to reach out: zhanghaishuo2002@foxmail.com
+Feel free to reach out: haishuo88@gmail.com
 
 <!--My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
