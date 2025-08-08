@@ -1,20 +1,11 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+layout: page
+title: 我的内容页
+permalink: /my-content/
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+这里是我自定义的页面内容，可以写任何 Markdown 格式的文字。
 
-<span class='anchor' id='about-me'></span>
-
-Test
+- 支持列表
+- 支持标题
+- 支持图片和代码块等
