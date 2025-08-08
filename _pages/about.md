@@ -62,3 +62,5 @@ Feel free to reach out: haishuo@foxmail.com / haishuo88@gmail.com
 
 # 💻 Experiences
 - *2024.03 - 2024.07*, Software Engineer (intern), [Xiaomi Corporation](https://www.mi.com/global/about/), Beijing.
+
+- [test](other-awards.md)
